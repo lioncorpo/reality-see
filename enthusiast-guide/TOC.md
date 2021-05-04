@@ -1,0 +1,50 @@
+# [Windows Mixed Reality enthusiast documentation](index.yml)
+## [Start your VR journey](vr-journey.md)
+
+## Getting started
+### [Before you start](before-you-start.md)
+### [Minimum PC hardware guidelines](windows-mixed-reality-minimum-pc-hardware-compatibility-guidelines.md)
+### [Recommended adapters](recommended-adapters-for-windows-mixed-reality-capable-pcs.md)
+### [Get help with PC compatibility](get-help-with-pc-compatibility.md)
+### [Plug in your headset](plug-in-your-headset.md)
+### [Install Windows Mixed Reality](install-windows-mixed-reality.md)
+### [Set up Windows Mixed Reality](set-up-windows-mixed-reality.md)
+### [Windows Mixed Reality Setup FAQ](wmr-setup-faq.md)
+
+## Using Windows Mixed Reality
+### [Learning experience in Mixed Reality](learn-mixed-reality.md)
+### [Your Mixed Reality home](your-mixed-reality-home.md)
+### [Controllers in Windows Mixed Reality](controllers-in-wmr.md)
+### [Using speech input](using-speech-in-wmr.md)
+### [Using games, 360 videos, and apps](using-games-and-apps-in-windows-mixed-reality.md)
+### [Using SteamVR](using-steamvr-with-windows-mixed-reality.md)
+### [Using Microsoft Edge](using-microsoft-edge.md)
+### [What is WebVR](webvr.md)
+### [Using Windows Mixed Reality FAQ](using-wmr-faq.md)
+
+## Troubleshooting and FAQs
+### [FAQ overview](troubleshooting-windows-mixed-reality.md)
+### [Filing bugs and feedback](filing-feedback.md)
+### [Error codes](error-codes.md)
+### [Installation errors](installation_errors.md)
+### [Before you buy](before-you-buy-faqs.md)
+### [Boundaries](boundary-questions.md)
+### [Headset connectivity](headset-connectivity.md)
+### [Headset display](headset-display.md)
+### [Motion controllers](motion-controller-problems.md)
+### [Performance](performance-questions.md)
+### [Speech and audio](speech-and-audio.md)
+### [SteamVR](steamvr-questions.md)
+### [Tracking system](tracking.md)
+### [WebVR](webvr-questions.md)
+### [Other questions](other-questions.md)
+### [HP Reverb G2 FAQ](reverbG2-faq.md)
+
+## Resources
+### [Immersive headset health, safety, and comfort](wmr-health-safety-comfort.md)
+### [Mixed Reality software overview and release history](mixed-reality-software.md)
+### [How inside-out tracking works](tracking-system.md)
+### [HP Reverb G2 Controllers in Unity](https://docs.microsoft.com/windows/mixed-reality/develop/unity/unity-reverb-g2-controllers)
+### [HP Reverb G2 Controllers in Unreal](https://docs.microsoft.com/windows/mixed-reality/develop/unreal/unreal-reverb-g2-controllers)
+
+## [Contributing guide](contributing.md)
